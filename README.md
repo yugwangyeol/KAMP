@@ -95,5 +95,5 @@
 
 ## 7. 발표 자료&참고 자료
 
-[2022 KAMP 발표 자료]()  
+[2022 KAMP 발표 자료](https://github.com/yugwangyeol/KAMP/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%A0%9C%EC%9D%BC_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)  
 
