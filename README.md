@@ -58,21 +58,13 @@
 
 ### ch.2 Modeling  
 
-- KeyPoint Detection (YoloV8, RPM Pose)
-- Object Tracking (CoTracker, Pips)
-- STT (SeamlessM$T, Whisper)
-
----
-
-### ch.3 Post-processing
-
 - 이상치 탐지 모델(isolationforest,Elliptic Envelope)
 - ML (Pycaret,Catboost)
 - DL (LSTM,CNN_LSTM)
 
 ---
 
-### ch.4 결과 분석
+### ch.3 결과 분석
 
 - SHAP
 - 분석
